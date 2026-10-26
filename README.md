@@ -6,6 +6,10 @@ SignaLens is an accessibility-first multimodal assistant that turns real-world s
 
 The core experience is powered by **Gemma 4** through the Google Gen AI SDK. Its evidence-first prompt separates visible facts from inference, keeps directional labels tied to the correct arrows, and explicitly surfaces uncertainty when the image does not establish a route or destination.
 
+## 🚀 Live Demo
+
+Try SignaLens: https://signalens.streamlit.app/
+
 ## Demo
 
 ![SignaLens demo](assets/demo-sign.jpg)
