@@ -12,8 +12,8 @@ Try SignaLens: https://signalens.streamlit.app/
 
 ## Demo
 
-![SignaLens demo](assets/demo.jpg)
-![SignaLens demo](assets/demo1.jpg)
+![SignaLens demo](assets/demo.png)
+![SignaLens demo](assets/demo1.png)
 
 ### Example
 
